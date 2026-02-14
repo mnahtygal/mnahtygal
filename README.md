@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @mnahtygal
-38 years in the IT Business.
-Currently GM Employee Sr. Cost Recovery Data Analyst.
+42 years in the IT Business.
+Currently GM Employee Sr. Software Engineer.
 - 👀 I’m interested in New Tech, SDR Radios and 3D Printing
-- 🌱 I’m currently learning SDR Radios, 3D Printing and CNC Routing
-- 💞️ I’m looking to collaborate on SDR Radios, 3D Printing and CNC Routing
+- 🌱 I’m currently learning SDR Radios, 3D Printing and CNC Routing,
+- 💞️ I’m looking to collaborate on SDR Radios, 3D Printing and CNC Routing  and laser engraving
 - 📫 How to reach me marty.nahtygal@gmail.com
 
 <!---
